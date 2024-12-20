@@ -13,3 +13,7 @@ Este projeto tem o intuito de comprovar através de análise de dados espaciais 
 
    * Análise da direção dos ventos através da base de dados do INMET, através de pesquisas nas bases meteorológicas com a finalidade de indentificar para onde soprava os ventos no dia dos incêndios, dando indicios da dinâmica do fogo, pois as chamas seguem a direção dos ventos.
   - https://tempo.inmet.gov.br/TabelaEstacoes/A001
+
+3. Processamento dos dados.
+
+   Para processamento dos dados foi utilizado o software livre QGIS, 
