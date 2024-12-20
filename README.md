@@ -17,3 +17,6 @@ Este projeto tem o intuito de comprovar através de análise de dados espaciais 
 3. Processamento dos dados.
 
    Para processamento dos dados foi utilizado o software livre QGIS, 
+
+
+As demais explicações encontram-se no PDF em anexo
