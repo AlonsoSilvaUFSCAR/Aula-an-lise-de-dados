@@ -1,4 +1,4 @@
-# Incendios paulistas
+# Incêndios paulistas
 1. Análise sobre a possibilidade de início dos incêndios florestais do estado de São Paulo às margens das ferrovias.
 Este projeto tem o intuito de comprovar através de análise de dados espaciais que parte dos incêndios que afetaram o estado de São Paulo no ano de 2024, com maior concentração no mês de agosto tiveram início na malha férrea.
 
